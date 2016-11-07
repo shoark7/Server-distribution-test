@@ -26,7 +26,7 @@ SECRET_KEY = 'e@0i#d16ugz@9@#jt4gah4l@_r4v2x#o1osm4x*jcd54lcf(8g'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-	'*.amazon.com',
+	'.amazon.com',
 ]
 
 
