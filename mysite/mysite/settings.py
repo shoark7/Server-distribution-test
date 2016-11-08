@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
 	'.amazonaws.com',
+	'www.stonehead.com',
+	'stonehead.com',
 ]
 
 
